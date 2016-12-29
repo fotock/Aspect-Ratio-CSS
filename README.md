@@ -1,13 +1,9 @@
-##Aspect Ratio CSS
-
-####Demo
-
+##Result
 https://fotock.github.io/Aspect-Ratio-CSS
 
  
 
-####CSS
-
+###Demo usage
 ```html
 <style>
   .ratio-1-1,.ratio-2-1,.ratio-3-2,.ratio-4-3,.ratio-3-4,.ratio-16-9 {position:relative;overflow:hidden;}
@@ -30,7 +26,7 @@ https://fotock.github.io/Aspect-Ratio-CSS
 </body>
 ```
 
-####LICENSE
+##LICENSE
 MIT License
 
 Copyright (c) 2016 Shelley Shyan
