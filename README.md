@@ -12,4 +12,8 @@
   .ratio-3-4:before {padding-top:133.33%;}
   .ratio-16-9:before {padding-top:56.25%;}
 </style>
+
+<body>
+  <div class="ratio-3-2"><div class="content">Hello, world</div></div>
+</body>
 ```
