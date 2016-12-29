@@ -14,6 +14,10 @@
 </style>
 
 <body>
-  <div class="ratio-3-2"><div class="content">Hello, world</div></div>
+  <div class="ratio-3-2">
+    <div class="content">
+      Hello, world
+    </div>
+  </div>
 </body>
 ```
