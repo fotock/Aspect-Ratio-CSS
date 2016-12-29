@@ -1,5 +1,13 @@
 ##Aspect Ratio CSS
 
+####Demo
+
+https://fotock.github.io/Aspect-Ratio-CSS
+
+ 
+
+####CSS
+
 ```html
 <style>
   .ratio-1-1,.ratio-2-1,.ratio-3-2,.ratio-4-3,.ratio-3-4,.ratio-16-9 {position:relative;overflow:hidden;}
@@ -22,5 +30,3 @@
 </body>
 ```
 
-###Demo
-https://fotock.github.io/Aspect-Ratio-CSS
